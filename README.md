@@ -1,4 +1,4 @@
-![Foto de boas vindas](Foto de boas vindas]https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2021/06/Curso-de-programa%C3%A7%C3%A3o.jpg)
+![Foto de boas vindas](https://i0.wp.com/www.agilenative.com/wp-content/uploads/2017/01/001-Agile-Hello-World.png?fit=1745%2C1080&ssl=1)
 
 <h1 align="center">Hello 👋, meu nome é Luis Filipe</h1>
 <h3 align="center">Estudante de programação!</h3>
