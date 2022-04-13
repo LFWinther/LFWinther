@@ -1,4 +1,4 @@
-![Foto de boas vindas](https://i0.wp.com/www.agilenative.com/wp-content/uploads/2017/01/001-Agile-Hello-World.png?fit=1745%2C1080&ssl=1)
+![Foto de boas vindas](https://web.whatsapp.com/)
 
 <h1 align="center">Hello 👋, meu nome é Luis Filipe</h1>
 <h3 align="center">Estudante de programação!</h3>
