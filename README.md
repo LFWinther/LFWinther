@@ -1,4 +1,4 @@
-![Foto de boas vindas](https://drive.google.com/file/d/1C7ZCz8OZkMLraBKB41vYfKiKUlDyj_uu/view)
+![Foto de boas vindas](blob:https://web.whatsapp.com/1960e123-676b-4241-a3b9-ec03f5b5e144)
 
 <h1 align="center">Hello 👋, meu nome é Luis Filipe</h1>
 <h3 align="center">Estudante de programação!</h3>
