@@ -1,4 +1,4 @@
-![Foto de boas vindas](file:///C:/Users/luchi/Downloads/heliworld.mp4)
+![Foto de boas vindas](https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2021/06/Curso-de-programa%C3%A7%C3%A3o.jpg)
 
 <h1 align="center">Hello 👋, meu nome é Luis Filipe</h1>
 <h3 align="center">Estudante de programação!</h3>
