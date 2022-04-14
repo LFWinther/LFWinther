@@ -1,7 +1,7 @@
 ![Foto de boas vindas](https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2021/06/Curso-de-programa%C3%A7%C3%A3o.jpg)
 
-<h1 align="center">Hello 👋, meu nome é Luis Filipe</h1>
-<h3 align="center">Estudante de programação!</h3>
+<h1 align="center">Hello word!! 👋 Welcome to my world </h1>
+<h3 align="center">My name is Luis Filipe Winther, I am 24 years old. I am a technology student and I seek new knowledge everyday.!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
