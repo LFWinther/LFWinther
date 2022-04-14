@@ -1,12 +1,21 @@
-![Foto de boas vindas](https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2021/06/Curso-de-programa%C3%A7%C3%A3o.jpg)
+<div align="center"> 
+  <img src="https://media1.giphy.com/media/jhaSpaYWvm3h3kdWyF/giphy.gif?cid=790b761115867249fe358290e66c10087e06180ded996cda&rid=giphy.gif&ct=g">
+</div>
 
-<h1 align="center">Hello word!! 👋 Welcome to my world </h1>
-<h3 align="center">My name is Luis Filipe Winther, I am 24 years old. I am a technology student and I seek new knowledge everyday.!</h3>
+<h3 align="center">Hello word!! 👋 Welcome to my world </h3>
+<h5 align="center">My name is Luis Filipe Winther, I am 24 years old. I am a technology student and I seek new knowledge everyday.!</h5>
+
+<div align="center">
+  <a href="https://github.com/LFWinther">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LFWinther&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFWinther&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/luisfilipewintherborges" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="000000000" height="30" width="40" /></a>
-<a href="https://instagram.com/lfwinthe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0000000" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/lfwinther" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luisfilipewinther@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luisfilipewintherborges" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 <h3 align="left">Linguagens e Ferramentas :</h3>
