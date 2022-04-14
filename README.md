@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">Hello word!! 👋 Welcome to my world </h3>
-<h5 align="center">My name is Luis Filipe Winther Borges, I am 24 years old. I am a technology student and I seek new knowledge everyday.!</h5>
+<h5 align="center">My name is Luis Filipe Winther Borges, I am 24 years old. I am a technology student and I seek new knowledge everyday.</h5>
 
 <div align="center">
   <a href="https://github.com/LFWinther">
