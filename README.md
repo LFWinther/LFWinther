@@ -5,6 +5,9 @@
 <h3 align="center">Hello word!! 👋 Welcome to my world </h3>
 <h5 align="center">My name is Luis Filipe Winther Borges, and I'm 24 years old. I'm a technology student and I seek new knowledge everyday.</h5>
 
+             💻 Full-Stack Developer.
+             📚 Studying Java.
+             
 <div align="center">
   <a href="https://github.com/LFWinther">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LFWinther&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
