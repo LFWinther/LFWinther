@@ -6,7 +6,6 @@
 <h5 align="center">My name is Luis Filipe Winther Borges, and I'm 24 years old. I'm a technology student and I seek new knowledge everyday.</h5>
 
              💻 Full-Stack Developer.
-             📚 Studying Java.
              
 <div align="center">
   <a href="https://github.com/LFWinther">
