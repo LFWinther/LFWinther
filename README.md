@@ -2,8 +2,8 @@
   <img src="https://media1.giphy.com/media/jhaSpaYWvm3h3kdWyF/giphy.gif?cid=790b761115867249fe358290e66c10087e06180ded996cda&rid=giphy.gif&ct=g">
 </div>
 
-<h3 align="center">Hello word!! 👋 Welcome to my world </h3>
-<h5 align="center">My name is Luis Filipe Winther Borges, and I'm 24 years old. I'm a technology student and I seek new knowledge everyday.</h5>
+<h3 align="center"> Welcome to my world </h3>
+<h5 align="center">My name is Luis Filipe Winther Borges, and I'm 25 years old. I'm a technology student and I seek new knowledge everyday.</h5>
 
              💻 Full-Stack Developer.
              
